@@ -12,4 +12,4 @@ I do see a few flaws with my approach. The main one would be that this is a comp
 	
 # Usage
 
-All the required code is in the jupyter notebook.
+All the required code, Final Writeup, and heuristic are in the jupyter notebook.
