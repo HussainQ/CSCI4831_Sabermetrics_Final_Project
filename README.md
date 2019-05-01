@@ -1,7 +1,7 @@
 # CSCI4831_Sabermetrics_Final_Project
 Creating a new statistic to rank Pitchers
 
-# Proposal
+# Initial Proposal
 
 
 My idea is based around one of the questions we have come across in the assignments; how do we determine how good a player truly is? I would like to take a tangent from that and answer the question “How can we measure a pitcher’s efficiency?” This is where my statistic comes in. The point of this statistic is to easily determine the performance or play style of a pitcher using on generalized score. 
